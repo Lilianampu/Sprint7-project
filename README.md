@@ -8,9 +8,9 @@ Permite visualizar y analizar datos de anuncios de venta de vehículos usados. C
 
 La aplicación ofrece dos visualizaciones interactivas que permiten explorar los datos fácilmente:
 
-📊 Histograma: muestra la distribución del kilometraje (odometer) de los vehículos.
+📊 Histograma: Conjunto de datos de anuncios de venta de coches.
 
-🔹 Gráfico de dispersión: representa la relación entre el precio (price) y el kilometraje, ayudando a detectar patrones o tendencias.
+🔹 Gráfico de dispersión: Relacion entre precio y kilometraje.
 
 ▶️ Cómo ejecutar la aplicación localmente
 
