@@ -2,7 +2,7 @@
 📘 Descripción general
 
 Esta es una aplicación web interactiva desarrollada con Streamlit, Pandas y Plotly Express.
-Permite visualizar y analizar datos de anuncios de venta de vehículos usados, mostrando información relevante sobre el kilometraje, precio y otras variables del conjunto de datos vehicles_us.csv.
+Permite visualizar y analizar datos de anuncios de venta de vehículos usados. Conjunto de datos: vehicles_us.csv.
 
 ⚙️ Funcionalidad principal
 
@@ -20,36 +20,9 @@ git clone https://github.com/Lilianampu/Sprint7-project.git
 cd Sprint7-project
 
 
-Crea y activa un entorno virtual (opcional pero recomendado):
-
-python -m venv venv
-source venv/bin/activate     # En macOS/Linux  
-venv\Scripts\activate        # En Windows
+URL local para visualizar: por ejemplo, http://localhost:8501.
 
 
-Instala las dependencias necesarias:
 
-pip install -r requirements.txt
-
-
-Ejecuta la aplicación:
-
-streamlit run app.py
-
-
-Abre en tu navegador la URL local que se mostrará (por ejemplo, http://localhost:8501).
-
-🌐 Despliegue en Render
-
-El proyecto está listo para ser desplegado en Render.
-Solo es necesario conectar el repositorio, definir el comando de inicio:
-
-streamlit run app.py
-
-
-y establecer el entorno de ejecución con las dependencias del archivo requirements.txt.
-
-👩‍💻 Autor
-
-Lilian Ampudia Pérez
+Autor: Liliana Pérez
 Proyecto desarrollado como parte del Sprint 7 del programa de análisis de datos.
